@@ -6,4 +6,7 @@ func main() {
     fmt.Println("hello world")
 }
 
+func myFeature() {
 
+   fmt.Println("Something")
+}
