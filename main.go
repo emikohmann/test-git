@@ -8,5 +8,5 @@ func main() {
 
 func myFeature() {
 
-   fmt.Println("Something"
+   fmt.Println("Something")
 }
